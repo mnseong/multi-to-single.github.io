@@ -24,7 +24,7 @@ This page has been created to share preliminary results from the ongoing project
 
 ---
 
-> Note: This project is being conducted under the supervision of Professor Xuejin Chen from USTC and Professor Jinsun Park from PNU.
+> Note: This project is being conducted under the supervision of Professor Xuejin Chen from USTC and Professor Jinsun Park from PNU. Authorship is subject to change.
 
 ## Key Contributions
 
