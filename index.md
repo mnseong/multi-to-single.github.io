@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 
 title: "Multi-to-Single: Boosting Large Scene Reconstruction using Distributed Gaussian Splatting"
-authors: Minseong Kweon¹, Jinsun Park¹, Xuejin Chen²
+authors: Minseong Kweon¹, Xuejin Chen², Jinsun Park¹
 affiliations: ¹Pusan National University
   ²University of Science and Technology of China
 # paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
@@ -32,8 +32,6 @@ To be released
 
 ## Results
 
-<div align="center">
-
 | Methods           | Building  |           |           |       | Rubble    |           |           |      |
 | ----------------- | --------- | --------- | --------- | ----- | --------- | --------- | --------- | ---- |
 |                   | PSNR ↑    | SSIM ↑    | LPIPS ↓   | # GS  | PSNR ↑    | SSIM ↑    | LPIPS ↓   | # GS |
@@ -44,13 +42,11 @@ To be released
 | City Gaussian [2] | 21.55     | 0.778     | 0.246     | 13.2M | 25.77     | 0.813     | 0.228     | 9.7M |
 | **Ours**          | **23.39** | **0.811** | **0.157** | 8.8M  | **26.18** | **0.816** | **0.187** | 6.2M |
 
-</div>
-
 ![building-test-result](https://github.com/user-attachments/assets/104494e5-048f-4561-8225-6c7c1a657c22)
 
-_Figure 1: Rendering Results for the 20 Image Test Dataset of Mill 19 - Building_
+_**Fig. 1.** Rendering Results for the 20 Image Test Dataset of Mill 19 - Building_
 
-### Results for additional datasets are forthcoming.
+Results for additional datasets are forthcoming.
 
 ## References
 
