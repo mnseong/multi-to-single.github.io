@@ -2,11 +2,9 @@
 layout: project_page
 permalink: /
 
-title: Multi-to-Single: Boosting Large Scene Reconstruction using Distributed Gaussian Splatting
-authors:
-    Minseong Kweon
-affiliations:
-    Pusan National University, University of Science and Technology of China
+title: "Multi-to-Single: Boosting Large Scene Reconstruction using Distributed Gaussian Splatting"
+authors: Minseong Kweon
+affiliations: Pusan National University, University of Science and Technology of China
 # paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 # video: https://www.youtube.com/results?search_query=turing+machine
 # code: https://github.com/topics/turing-machines
@@ -18,7 +16,7 @@ affiliations:
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-This page has been created to share preliminary results from the ongoing project *Multi-to-Single: Boosting Large Scene Reconstruction using Distributed Gaussian Splatting*. If you have any questions, feel free to reach out to me at wou1202@pusan.ac.kr.
+This page has been created to share preliminary results from the ongoing project <em>Multi-to-Single: Boosting Large Scene Reconstruction using Distributed Gaussian Splatting</em>. If you have any questions, feel free to reach out to me at wou1202@pusan.ac.kr.
         </div>
     </div>
 </div>
