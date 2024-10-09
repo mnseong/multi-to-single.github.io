@@ -43,10 +43,11 @@ To be released
 | Methods           | Building  |           |           |       | Rubble    |           |           |      |
 | ----------------- | --------- | --------- | --------- | ----- | --------- | --------- | --------- | ---- |
 |                   | PSNR ↑    | SSIM ↑    | LPIPS ↓   | # GS  | PSNR ↑    | SSIM ↑    | LPIPS ↓   | # GS |
-| MegaNeRF [3]      | 20.93     | 0.547     | 0.504     | -     | 24.06     | 0.553     | 0.516     | -    |
-| Switch-NeRF [4]   | 21.54     | 0.579     | 0.474     | -     | 24.31     | 0.562     | 0.496     | -    |
+| MegaNeRF [3]      | 20.93     | 0.547     | 0.504     | null  | 24.06     | 0.553     | 0.516     | null |
+| Switch-NeRF [5]   | 21.54     | 0.579     | 0.474     | null  | 24.31     | 0.562     | 0.496     | null |
 | 3DGS† [1]         | 21.25     | 0.727     | 0.282     | 6.4M  | 24.85     | 0.750     | 0.283     | 3.6M |
-| Grendel-GS† [5]   | 21.47     | 0.772     | 0.209     | 11.8M | 25.45     | 0.783     | 0.230     | 6.1M |
+| Grendel-GS† [6]   | 21.47     | 0.772     | 0.209     | 11.8M | 25.45     | 0.783     | 0.230     | 6.1M |
+| PyGS [4]          | 22.72     | 0.729     | 0.298     | -     | 25.65     | 0.727     | 0.320     | -    |
 | City Gaussian [2] | 21.55     | 0.778     | 0.246     | 13.2M | 25.77     | 0.813     | 0.228     | 9.7M |
 | **Ours**          | **23.39** | **0.811** | **0.157** | 8.8M  | **26.18** | **0.816** | **0.187** | 6.2M |
 
@@ -65,7 +66,9 @@ Results for additional datasets are forthcoming.
 
 3. Turki, Haithem, Deva Ramanan, and Mahadev Satyanarayanan. "Mega-nerf: Scalable construction of large-scale nerfs for virtual fly-throughs." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 
-4. Zhenxing, M. I., and Dan Xu. "Switch-nerf: Learning scene decomposition with mixture of experts for large-scale neural radiance fields." The Eleventh International Conference on Learning Representations. 2022.
+4. Wang, Zipeng, and Dan Xu. "PyGS: Large-scale Scene Representation with Pyramidal 3D Gaussian Splatting." arXiv preprint arXiv:2405.16829 (2024).
 
-5. Zhao, Hexu, et al. "On Scaling Up 3D Gaussian Splatting Training." arXiv preprint arXiv:2406.18533 (2024).
+5. Zhenxing, M. I., and Dan Xu. "Switch-nerf: Learning scene decomposition with mixture of experts for large-scale neural radiance fields." The Eleventh International Conference on Learning Representations. 2022.
+
+6. Zhao, Hexu, et al. "On Scaling Up 3D Gaussian Splatting Training." arXiv preprint arXiv:2406.18533 (2024).
 ```
