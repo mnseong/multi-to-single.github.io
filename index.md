@@ -12,6 +12,10 @@ affiliations: ¹Pusan National University
 # data: https://huggingface.co/docs/datasets
 ---
 
+![building-test-result](https://github.com/user-attachments/assets/104494e5-048f-4561-8225-6c7c1a657c22)
+
+_**Fig. 1.** Rendering Results for the 20 Image Test Dataset of Mill 19 - Building_
+
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
     <div class="column is-four-fifths">
@@ -42,9 +46,9 @@ To be released
 | City Gaussian [2] | 21.55     | 0.778     | 0.246     | 13.2M | 25.77     | 0.813     | 0.228     | 9.7M |
 | **Ours**          | **23.39** | **0.811** | **0.157** | 8.8M  | **26.18** | **0.816** | **0.187** | 6.2M |
 
-![building-test-result](https://github.com/user-attachments/assets/104494e5-048f-4561-8225-6c7c1a657c22)
+<!-- ![building-test-result](https://github.com/user-attachments/assets/104494e5-048f-4561-8225-6c7c1a657c22)
 
-_**Fig. 1.** Rendering Results for the 20 Image Test Dataset of Mill 19 - Building_
+_**Fig. 1.** Rendering Results for the 20 Image Test Dataset of Mill 19 - Building_ -->
 
 Results for additional datasets are forthcoming.
 
