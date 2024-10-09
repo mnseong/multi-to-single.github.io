@@ -12,9 +12,13 @@ affiliations: ¹Pusan National University
 # data: https://huggingface.co/docs/datasets
 ---
 
+---
+
 ![building-test-result](https://github.com/user-attachments/assets/104494e5-048f-4561-8225-6c7c1a657c22)
 
 _**Fig. 1.** Rendering Results for the 20 Image Test Dataset of Mill 19 - Building_
+
+---
 
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
